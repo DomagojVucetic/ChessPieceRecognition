@@ -6,3 +6,4 @@ Using CNN I have created a model for recognizing chess pieces and trained it wit
 Batch size of 32 proved better and here are the graphs for accuracy and loss
 
 ![accuracy graph with batchSize = 32](accuracy32.png)
+![loss graph with batchSize = 32](loss32.png)
